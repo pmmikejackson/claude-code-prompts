@@ -12,9 +12,9 @@ A collection of reusable prompts for Claude Code focused on pragmatic SaaS produ
 
 ### 1. Product Discovery
 - [PM Interview - Market Validation](./product-discovery/01-pm-interview.md)
+- [User Research & Problem Context](./product-discovery/02-user-research.md)
 
 ### 2. Requirements (Coming Soon)
-- User Problem Definition
 - Market Analysis
 - Definition of Done
 - Success Criteria
