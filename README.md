@@ -14,9 +14,9 @@ A collection of reusable prompts for Claude Code focused on pragmatic SaaS produ
 - [PM Interview - Market Validation](./product-discovery/01-pm-interview.md)
 - [User Research & Problem Context](./product-discovery/02-user-research.md)
 - [Solution Synthesis & Value Proposition](./product-discovery/03-solution-synthesis.md)
+- [Market Analysis & Competitive Positioning](./product-discovery/04-market-analysis.md)
 
 ### 2. Requirements (Coming Soon)
-- Market Analysis
 - Definition of Done
 - Success Criteria
 - Functional Requirements
@@ -41,7 +41,7 @@ These prompts are designed to work as an autonomous PM agent with human-in-the-l
 1. **PM Interview** → GO/NO-GO decision
 2. **User Research** → Understanding phase
 3. **Solution Synthesis** → Choose concept decision
-4. **Market Analysis** → Positioning
+4. **Market Analysis** → Competitive positioning (requires web search)
 5. **Requirements** → Build specifications
 
 ## Contributing
