@@ -13,6 +13,7 @@ A collection of reusable prompts for Claude Code focused on pragmatic SaaS produ
 ### 1. Product Discovery
 - [PM Interview - Market Validation](./product-discovery/01-pm-interview.md)
 - [User Research & Problem Context](./product-discovery/02-user-research.md)
+- [Solution Synthesis & Value Proposition](./product-discovery/03-solution-synthesis.md)
 
 ### 2. Requirements (Coming Soon)
 - Market Analysis
@@ -32,6 +33,16 @@ A collection of reusable prompts for Claude Code focused on pragmatic SaaS produ
 2. Run through the structured questions
 3. Use the output to inform your next steps
 4. Feed subsequent prompts with the artifacts from previous ones
+
+## Agent Workflow
+
+These prompts are designed to work as an autonomous PM agent with human-in-the-loop decision gates:
+
+1. **PM Interview** → GO/NO-GO decision
+2. **User Research** → Understanding phase
+3. **Solution Synthesis** → Choose concept decision
+4. **Market Analysis** → Positioning
+5. **Requirements** → Build specifications
 
 ## Contributing
 
